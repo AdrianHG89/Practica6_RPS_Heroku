@@ -33,10 +33,10 @@ Instalaremos las gemas necesarias: bundle install
 4. Heroku
 ------------
 
-http://shrieking-beach-8611.herokuapp.com
+	http://shrieking-beach-8611.herokuapp.com
+![](http://i1296.photobucket.com/albums/ag1/adrihg89/heroku3_zps5cc6ffd8.png)
 
 5.Desarrollador
 ---------------
 
 * Adrián Hernández González
-![](http://i1296.photobucket.com/albums/ag1/adrihg89/heroku3_zps5cc6ffd8.png)
