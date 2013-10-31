@@ -1,6 +1,6 @@
-desc "Ejecucion del servidor con los parametros predefinidos"
+desc "Ejecutar servidor para lanzar la aplicacion"
 task :default do
-  sh "bundle exec rackup"
+  sh "rackup"
 end
 
 
