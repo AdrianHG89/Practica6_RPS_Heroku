@@ -1,12 +1,12 @@
 ![](http://i1296.photobucket.com/albums/ag1/adrihg89/Piedra_papel_tijeras_zpsf31ae8ab.jpg)
 
-Práctica 5 - Añada Pruebas a Rock, Paper,Scissors:
+Práctica 6 - Despliegue de RPS en Heroku:
 ===========
  
 1. Objetivo
 -----------
 
-Partiendo de la practica 4 deberemos usar ahora pruebas unitarias y TDD (rspec).
+Partiendo de la practica 5, debemos desplegar la página RPS en Heroku.
 
 
 2. Instalación
